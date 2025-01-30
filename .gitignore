@@ -1,0 +1,12 @@
+myenv/
+.idea
+
+datasets/
+
+**/__pycache__/
+baseline_system/baseline_model.h5
+baseline_system/baseline_model.keras
+baseline_system/model_details.h5
+baseline_system/processed_features.h5
+results/baseline_model.h5.py
+baseline_system/processed_features.csv
